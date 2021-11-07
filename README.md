@@ -7,3 +7,5 @@ It shows the rating of the movies on a color code basis:
 Green being good,
 yellow being average and
 red meaning audience didnt like that movie very much.
+Site link: https://excelsiors-movie-mania.netlify.app/
+CodePen link: https://codepen.io/aryandubey359/pen/bGrvzLV
