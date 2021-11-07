@@ -99,7 +99,8 @@ main{
     visibility: hidden;
     background: #EBE5E2;
     font-size: 12px;
-    overflow: hidden;
+    overflow: auto;
+    max-height: 100%;
     /* transition: transform 1s ease-in-out; */
 }
 
